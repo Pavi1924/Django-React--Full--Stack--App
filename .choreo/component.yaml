@@ -10,3 +10,4 @@ endpoints:
         - Project
         - Public
       schemaFilePath: .
+
